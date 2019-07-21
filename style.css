@@ -40,7 +40,7 @@ nav{
     height: 100%;
     right: 0;
 }
-@media only screen and (max-width: 10x00px){
+@media only screen and (max-width: 1000px){
     .maindiv{
     flex-direction: column;
     }
